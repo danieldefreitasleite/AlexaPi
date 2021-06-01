@@ -46,7 +46,8 @@ fi
 
 cd "${SCRIPT_DIRECTORY}"
 
-OS_default="debian"
+#OS_default="debian"
+OS_default="archlinux"
 DEVICE_default="raspberrypi"
 
 echo "Which operating system are you using?"
